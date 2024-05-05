@@ -1,0 +1,17 @@
+Creational
+Singleton - done
+Factory - done
+AbstractFactory - done
+Prototype - done
+
+Structural
+Adapter - done
+Facade - done
+Proxy
+Decorator
+
+Behaviour
+Strategy
+Command
+Observer
+visitor
